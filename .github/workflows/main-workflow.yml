@@ -34,3 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+          
+          #Path to Frontier _cicd_workflow
+          .github/workflows/main_sample-spring-app.yml
